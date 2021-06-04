@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+    <meta charset = "UUTF-8">
+    <meta name = "viewport" content = "width-device-width" initial-s>
+    <meta http-equiv="X-UA-Compatible" content= "ie-edge">
+    <title>About</title>
+    <link rel="stylesheet" href="style.css">
+</head><h2>Welcome to VOLT ELECTRONICS About</h2>
+
+<body>
+    <dev class="topnav home">
+    <ul>
+        <a href="TRYOUT.html">Home</a>
+            &nbsp;&nbsp;
+            <a href="Products Or Services.html">Products And Services</a>
+            &nbsp;&nbsp;
+            <a href="Enquiries.html">Enquiries</a>
+            &nbsp;&nbsp;
+            <a href="About.html">About</a>
+            &nbsp;
+    </ul>
+    </div>
+
+    
+</body>
+</html>
